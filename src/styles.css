@@ -1,0 +1,260 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    gap: 1px;
+    padding: 1px;
+}
+.sidebar{
+    background-color: #FFFFFF;
+    height: 97vh;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.mainbar{
+    background-color: #FFFFFF;
+    height: 96vh;
+    width: 1190px;
+}
+.Logo{
+    height: 15vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.pages{
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.logout{
+    height: 40vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.logout div{
+    width: 250px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgba(1,1,1,0.2);
+    text-align: center;
+    transition: 0.3s;
+}
+.logout div:hover{
+    opacity: 0.5;
+}
+.pages div{
+    padding: 10px;
+    width: 250px;
+    border-radius: 12px;
+    text-align: center;
+}
+.na{
+    opacity: 0.8;
+    transition: 0.3s;
+}
+.na:hover{
+    background-color: rgba(1,1,1,0.1);
+    opacity: 1;
+}
+.active{
+    background-color: #4B0ACE;
+}
+.icon{
+    float: left;
+    width: 20px;
+}
+.mainbar{
+    display: flex;
+    flex-direction: column;
+}
+.navbar{
+    height: 10vh;
+    margin-bottom: 20px;
+}
+.searchbar{
+    position: absolute;
+    transform: translate(-50%,0);
+    opacity: 0.5;
+    margin: auto;
+    left: 600px;
+    width: 600px;
+    padding: 15px;
+    background-color: rgba(1,1,1,0.05);
+    border-radius: 15px;
+}
+.searchbar img{
+    float: right;
+}
+.buttons{
+    float: right;
+    display: flex;
+    align-items: center;
+}
+.ni{
+    border-radius: 50%;
+    border-width: 0;
+    text-align: center;
+}
+.ni{
+    margin: 0 20px 0 0;
+}
+.User{
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-width: 0px;
+    margin: 4px 0 0 0;
+}
+.dot{
+    position: relative;
+}
+.thedot{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    max-width: 8px;
+}
+.number{
+    float: right;
+}
+.ni img{
+    width: 20px;
+}
+.User img{
+    width: 40px;
+}
+.dashboard{
+    background-color: #FFFFFF;
+    height: 85vh;
+    display: flex;
+    justify-content: space-around;
+}
+.main-dashboard{
+    background-color:#FFFFFF;
+    flex-basis: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.dashboard-sidebar{
+    background-color: #301C57;
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.promo{
+    flex-basis: 30%;
+    display: flex;
+    background-color: #4B0ACE;
+    border-radius: 25px;
+    margin: 20px;
+}
+.myimage{
+    margin-left: 100px;
+    max-height: 250px;
+}
+.info{
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.smalltext{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: large;
+    color: #FFFFFF;
+}
+.bigtext{
+    margin-left: 40px;
+    font-size: xx-large;
+    color:#FFFFFF;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.myimage{
+    flex-basis: 40%;
+    margin: 30px;
+}
+.games .header{
+    margin-bottom: 10px;
+}
+.games{
+    flex-basis: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.download{
+    width: 200px;
+    height: 50px;
+    margin-left: 40px;
+    color: black;
+    text-align: center;
+    background-color: #FFA910;
+    border-radius: 15px;
+    font-size: large;
+    text-align: center;
+
+}
+.download img{
+    margin-right: 10px;
+}
+.row-1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.row-2{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.sidebar-card{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #301C57;
+}
+.sd-name{
+    margin-top: 20px;
+    display: flex;
+    color: #FFFFFF;
+    justify-content: space-between;
+}
+.sd-game-name{
+    font-weight: bold;
+    font-size: larger;
+}
+.sd-game-info{
+    float: right;
+    display: flex;
+
+}
+.ratings{
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    margin: 20px;
+}
+.ratings img{
+    padding: 10px;
+    border:  #6945b3 solid 5px;
+    border-radius: 50%;
+}
+.ratings-details{
+    display: flex;
+    flex-direction: column;
+}
+.lg{
+    margin-top: 10px;
+    color: gray;
+}
+

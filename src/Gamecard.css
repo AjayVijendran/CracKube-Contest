@@ -1,0 +1,46 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #FAFBFC;
+}
+.rectangle{
+    max-width: 300px;
+    max-height: 200px;
+}
+.card .name{
+    display: flex;
+    justify-content: space-around;
+}
+.game-info{
+    font-size: medium;
+    display: flex;
+}
+.heart,.down-symbol{
+    max-width: 20px;
+    max-height: 30px;
+}
+.game-download{
+    float: right;
+    background-color: #4B0ACE;
+    border-radius: 8px; 
+    color: #FFFFFF;
+}
+.active-card{
+    background-color: #301C57;
+    color:#FFFFFF;
+}
+.na-game .game-name{
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+}
+.active-card .game-name{
+    font-size: larger;
+    color: #FFFFFF;
+    font-weight: bold;
+}
