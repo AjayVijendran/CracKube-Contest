@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/CracKube-Contest/static/css/main.b1413b92.css",
+    "main.js": "/CracKube-Contest/static/js/main.515597e4.js",
+    "static/media/Star game.svg": "/CracKube-Contest/static/media/Star game.fa662a5da1c235c7c17ae5980d0a2fb7.svg",
+    "static/media/Awards.svg": "/CracKube-Contest/static/media/Awards.06eb3f6c11eb7a5b0be185f8e33c9393.svg",
+    "static/media/Rectangle 6.svg": "/CracKube-Contest/static/media/Rectangle 6.4974cfb8934229b9b5ec0d723113a3fc.svg",
+    "static/media/User.svg": "/CracKube-Contest/static/media/User.bc78d6b20c5e04e22eb718ae7395fa7a.svg",
+    "static/media/rocket.svg": "/CracKube-Contest/static/media/rocket.e49a2602a263a40d074faac7a6ca45d4.svg",
+    "static/media/Logo.svg": "/CracKube-Contest/static/media/Logo.9370f05cdde4fb819e0b47e4a0c083db.svg",
+    "static/media/icon-download.png": "/CracKube-Contest/static/media/icon-download.17feaac446e4a05b4d33.png",
+    "static/media/dashboard_icon.jfif": "/CracKube-Contest/static/media/dashboard_icon.706b5827fac99f1b2345.jfif",
+    "static/media/icon-school.svg": "/CracKube-Contest/static/media/icon-school.50e9e4f510d9db6ac5d8dc31f17f264d.svg",
+    "static/media/Shape (1).svg": "/CracKube-Contest/static/media/Shape (1).2ecf8185c4bfd49ad0bfe891bc853bd7.svg",
+    "static/media/icon-flame.svg": "/CracKube-Contest/static/media/icon-flame.a54ce880f9e776038d8101d572158f1b.svg",
+    "static/media/icon-trophy.svg": "/CracKube-Contest/static/media/icon-trophy.42b1f84de2e3b7b9457c646939c5f26f.svg",
+    "static/media/Logo Marketplace.svg": "/CracKube-Contest/static/media/Logo Marketplace.a78a6e1cc6e2cd59954ea23ba8440f81.svg",
+    "static/media/icon-users.svg": "/CracKube-Contest/static/media/icon-users.b73c55bb667cbcba749c136796026864.svg",
+    "static/media/icon-star.svg": "/CracKube-Contest/static/media/icon-star.7cd0c1d0e421c0b787093273361d45b0.svg",
+    "static/media/icon-diamond.svg": "/CracKube-Contest/static/media/icon-diamond.ae20fee461cfe5331258949b01b91789.svg",
+    "static/media/Number2.svg": "/CracKube-Contest/static/media/Number2.dcbc4959027bd0e1a3c89957f80d1561.svg",
+    "static/media/icon-sign-out.svg": "/CracKube-Contest/static/media/icon-sign-out.ee990df08284bf549994e9d2b9448386.svg",
+    "static/media/icon-crown.svg": "/CracKube-Contest/static/media/icon-crown.1023768ea9e370624e3629b706b2194a.svg",
+    "static/media/icon.svg": "/CracKube-Contest/static/media/icon.7cf1329edeceaf7baae90d0f45be44d4.svg",
+    "static/media/icon Notification.svg": "/CracKube-Contest/static/media/icon Notification.96e470ff42555b72a1f400774841018e.svg",
+    "index.html": "/CracKube-Contest/index.html",
+    "static/media/icon-search.svg": "/CracKube-Contest/static/media/icon-search.d39fbfe8b31d5283cde98580ca4b07a0.svg",
+    "static/media/icon-arrow-right.svg": "/CracKube-Contest/static/media/icon-arrow-right.1cad14ebeaac3c41ca98393352392ded.svg",
+    "static/media/Number7.svg": "/CracKube-Contest/static/media/Number7.49ca8dbcc24a48eb9abc7571d54487f4.svg",
+    "main.b1413b92.css.map": "/CracKube-Contest/static/css/main.b1413b92.css.map",
+    "main.515597e4.js.map": "/CracKube-Contest/static/js/main.515597e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1413b92.css",
+    "static/js/main.515597e4.js"
+  ]
+}
